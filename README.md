@@ -1,2 +1,3 @@
-# airasg
-AI Ready ASEAN Master Trainers Question Bank
+# AI Ready ASEAN Master Trainers Question Bank
+
+Please see CONTRIBUTING.md
